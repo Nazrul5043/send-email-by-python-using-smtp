@@ -1,1 +1,1 @@
-# send-email-by-python-using-smtp
+# send attachment email by python using smtp
